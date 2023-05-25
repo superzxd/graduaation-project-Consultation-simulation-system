@@ -1,0 +1,34 @@
+{
+  "destinations": [
+    {
+      "name":"home",
+      "slug":"/",
+      "id":1,
+      "descriptin":"首页介绍我们这个应用"
+    },
+    {
+      "name":"config",
+      "slug":"/config",
+      "id":2,
+      "descriptin":"配置页面用于配置一些信息"
+    },
+    {
+      "name":"chat",
+      "slug":"/chat",
+      "id":3,
+      "descriptin":"一个问诊页面"
+    },
+    {
+      "name":"eval",
+      "slug":"/eval",
+      "id":3,
+      "descriptin":"一个评价页面"
+    },
+    {
+      "name":"mune",
+      "slug":"/mine",
+      "id":3,
+      "descriptin":"一个评价页面"
+    }
+  ]  
+}
